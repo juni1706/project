@@ -1,6 +1,4 @@
-Belajar Python
-Belajar R
-Belajar SQL
+Belajar Data Scientist
 Belajar Bahasa Jepang
 Belajar Bahasa Arab
 Belajar Bahasa Inggris
